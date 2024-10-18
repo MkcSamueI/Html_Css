@@ -1,0 +1,101 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.conteiner{
+    display: flex;
+    background-color: #000;
+    justify-content: space-between;
+    align-items: center;
+    height: 80px;
+    padding: 16px;
+}
+
+.logo {
+    display: flex;
+    color: white;
+    align-items: center;
+    gap: 20px;
+}
+
+.pqp{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    width: 100%;
+}
+.IMG{
+
+    width: 250px;
+    height: 250px;
+}
+
+nav{
+    color: white;
+}
+nav div{
+    display: flex;
+    gap: 20px;
+}
+
+.oloco{
+    display: flex;
+    align-items: center;
+    margin: 0px 0px 0px 10px;
+    width: 290px;
+    height: 72px;
+    flex-wrap: wrap;
+}
+
+.sobre{
+    margin-top: 50px;
+}
+
+.titulo{
+    display: flex;
+    justify-content: center;
+    width: 300px;
+    
+}
+
+.text{
+    margin: 10px;
+}
+
+#Cards{
+    display: flex;
+    justify-content: center;
+    margin-top: 35px;
+    flex-wrap: wrap;
+}
+.block{
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(109, 109, 109);
+    height: 400px;
+    width: 300px;
+}
+/*.Box-top{
+    display: flex;
+    width: 202vh;
+    height: 100px;
+    background-color: black;
+    align-items: center;
+}
+
+img{
+    display: flex;
+}
+
+h1{
+    margin-left: 15px;
+    color: white;
+}
+.letras-top{
+    color: white;
+    
+}
+
+.logo{
+    display: flex;
+} */

@@ -1,0 +1,58 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: black;
+}
+
+.Block{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.zas{
+    background-color: rgb(68, 68, 68);
+    width: 400px;
+    height: 400px;
+}
+
+img{
+    width: 600px;
+    height: 400px;
+}
+
+.Login{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    color: white;
+}
+
+input{
+    background-color: rgb(112, 112, 112);
+    font-size: 20px; 
+    padding: 5px;
+    border-radius: 10px;
+    color: white;
+    border: none;
+}
+
+button {
+    background-color: green;
+    font-size: 25px;
+    width: 247px;
+    color: white;
+    border-radius: 10px;
+    border-style: none;
+    cursor: pointer;
+}
+
+::placeholder{
+    color: rgb(179, 174, 174);
+}
